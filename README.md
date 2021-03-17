@@ -2,7 +2,7 @@
 
 
 <p>If you are using Docker and Virtual Machine on Windows 10 you noticed you can't use both at same time. 
-In my case if i want to use Docker i need to enable *Virtual Machine Feature*, and if i want to use VMware/Virtual Box i need to disable that feature.</p>
+In my case if i want to use Docker i need to enable <em>Virtual Machine Feature</em>, and if i want to use VMware/Virtual Box i need to disable that feature.</p>
 </br> 
 
 
